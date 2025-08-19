@@ -1,0 +1,8 @@
+#ignore everything
+*
+
+#but don't ignore this file
+!.gitignore
+
+#keep the public folder and its contentrs
+!/public
